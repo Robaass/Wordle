@@ -1,1 +1,2 @@
 # Wordle-hra
+Jednoduchý program hry wordle, program náhodně vybere hádané slovo ze seznamu slov. Následně porovnává hádané slovo se vstupem od uživatele. Pokud vstupní slovo obsahuje písmeno hádaného slova a písmeno je na spávném místě, vybarví program písmeno zeleně. Pokud vstupní slovo obsahuje písmeno hádaného slova ale na špatném místě, vybarví program písmeno žlutě. Hráč má 6 pokusů na uhodnutí slova.
